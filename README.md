@@ -332,14 +332,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Windows Internals (Book Series)](https://docs.microsoft.com/en-us/sysinternals/resources/windows-internals)
 - [OSR Online (Driver Development)](https://www.osronline.com/)
 
-### Related Projects
-
-- [KDMapper](https://github.com/TheCruZ/kdmapper) - Manual driver mapper
-- [Intel-Driver](https://github.com/SamuelTulach/EasyAntiCheat-before-2018) - Vulnerable driver exploits
-- [Kernel Exploits](https://github.com/kernel-exploits) - Various kernel exploitation techniques
-
----
-
 ## ⚡ Performance
 
 - **Memory Read**: ~0.001ms per operation
